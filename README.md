@@ -16,7 +16,7 @@ The dataset consists of 9694 images and text files. There are 265788 symbols and
   <img src="pics/counts_hor.png" width="100%">
 </p>
 
-Each pair consists of one image file and one text file. File names have the format $x\_ y\_ z.jpg$. Where $x$ - is a document number, $y$ - is a page number in the document $x$, $z$ - is a line number in the page $y$ of document $x$. Such a naming system was created to help researchers who use our dataset to reconstruct original texts. One can train NLP models to help decrease the HTR model error.
+Each pair consists of one image file and one text file. File names have the format <img src="https://render.githubusercontent.com/render/math?math=x\_ y\_ z.jpg">. Where <img src="https://render.githubusercontent.com/render/math?math=x"> - is a document number, <img src="https://render.githubusercontent.com/render/math?math=y"> - is a page number in the document <img src="https://render.githubusercontent.com/render/math?math=x">, <img src="https://render.githubusercontent.com/render/math?math=z"> - is a line number in the page <img src="https://render.githubusercontent.com/render/math?math=y"> of document <img src="https://render.githubusercontent.com/render/math?math=x">. Such a naming system was created to help researchers who use our dataset to reconstruct original texts. One can train NLP models to help decrease the HTR model error.
 
 Here is an example of one line of text.
 <p align="center">
