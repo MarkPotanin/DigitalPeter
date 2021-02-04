@@ -15,3 +15,16 @@ The dataset consists of 9694 images and text files. There are 265788 symbols and
 <p align="center">
   <img src="pics/counts_hor.png" width="100%">
 </p>
+
+Each pair consists of one image file and one text file. File names have the format $x\_ y\_ z.jpg$. Where $x$ - is a document number, $y$ - is a page number in the document $x$, $z$ - is a line number in the page $y$ of document $x$. Such a naming system was created to help researchers who use our dataset to reconstruct original texts. One can train NLP models to help decrease the HTR model error.
+
+Here is an example of one line of text.
+<p align="center">
+  <img src="pics/one_line.jpg" width="100%">
+</p>
+
+
+Here is an example of segmented document.
+<p align="center">
+  <img src="pics/line_label.png" width="100%">
+</p>
