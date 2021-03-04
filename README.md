@@ -35,4 +35,4 @@ Keras implementation of CNN-GRU-CTC model is presented in notebook [```baseline.
 
 ## Competition
 We held a competition based on Digital Peter dataset.
-Here is github [link](https://github.com/sberbank-ai/digital_peter_aij2020). Here is competition (page)[https://ods.ai/tracks/aij2020] (need to register).
+Here is github [link](https://github.com/sberbank-ai/digital_peter_aij2020). Here is competition [page][https://ods.ai/tracks/aij2020] (need to register).
