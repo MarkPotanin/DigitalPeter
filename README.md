@@ -28,3 +28,9 @@ Here is an example of segmented document.
 <p align="center">
   <img src="pics/line_label.png" width="100%">
 </p>
+
+## Train
+
+Keras implementation of CNN-GRU-CTC model is presented in notebook [```baseline.ipynb```].
+
+## Competition
