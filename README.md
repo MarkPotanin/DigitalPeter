@@ -27,7 +27,7 @@ FINALLY, if you want to use our dataset for scientific researches, you can forge
 The dataset consists of 9694 images and text files. There are 265788 symbols and approximately 50998 words.
 
 <p align="center">
-  <img src="pics/counts_hor.png" width="100%">
+  <img src="pics/counts_hor.png" width="50%">
 </p>
 
 Each pair consists of one image file and one text file. File names have the format <img src="https://render.githubusercontent.com/render/math?math=x\_ y\_ z.jpg">. Where <img src="https://render.githubusercontent.com/render/math?math=x"> - is a document number, <img src="https://render.githubusercontent.com/render/math?math=y"> - is a page number in the document <img src="https://render.githubusercontent.com/render/math?math=x">, <img src="https://render.githubusercontent.com/render/math?math=z"> - is a line number in the page <img src="https://render.githubusercontent.com/render/math?math=y"> of document <img src="https://render.githubusercontent.com/render/math?math=x">. Such a naming system was created to help researchers who use our dataset to reconstruct original texts. One can train NLP models to help decrease the HTR model error.
@@ -53,5 +53,5 @@ Here is github [link](https://github.com/sberbank-ai/digital_peter_aij2020). Her
 
 Here is the final leaderboard for this competition. Scores are presented for the private set. Baseline solution presented in this github has the following metric -  9,786	44,222	21,532 (CER,WER,ACC).
 <p align="center">
-  <img src="pics/leaderboard.png" width="100%">
+  <img src="pics/leaderboard.png" width="50%">
 </p>
