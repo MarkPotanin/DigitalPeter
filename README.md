@@ -34,13 +34,13 @@ Each pair consists of one image file and one text file. File names have the form
 
 Here is an example of one line of text.
 <p align="center">
-  <img src="pics/one_line.jpg" width="100%">
+  <img src="pics/one_line.jpg" width="50%">
 </p>
 
 
 Here is an example of segmented document.
 <p align="center">
-  <img src="pics/line_label.png" width="100%">
+  <img src="pics/line_label.png" width="50%">
 </p>
 
 ## Train
